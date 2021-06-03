@@ -1,0 +1,8 @@
+Inheritance
+
+In inhertitance you start out with making one parent class.
+When you have made your class you can make “children” to it.
+You do this by adding the extends keyword at the end of your class and then choose your parent class.
+The “child” will inherit the attributes and/or methods the “parent” has.
+You can also add more attributes or methods to the child class. Theese will only be in the “child” class.
+Every child from the same parent, can be polymorphed into eachoter.
